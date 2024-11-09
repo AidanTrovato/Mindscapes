@@ -1,4 +1,5 @@
- 
+
+MindScapes is a game about mental health and has 2 different minigames that will help people struggling with mental health issues. 
 
 
 > Open this page at [https://aidantrovato.github.io/mindscapes/](https://aidantrovato.github.io/mindscapes/)
